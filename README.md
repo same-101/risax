@@ -5,6 +5,10 @@ A framework for JS
 ```html
 <script src="https://cdn.jsdelivr.net/gh/same-101/risax@main/risax.js"></script>
 ```
+## npm
+```
+npm i risax
+```
 ### How to Use
 Type
 ```html
