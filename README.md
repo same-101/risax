@@ -13,5 +13,5 @@ to test (add index.html with nothing on the body)
 ```javascript
 const risax = require('risax');
 
-Return('<h1>RISAX WORKS!!!</h1>');
+riasx.Return('<h1>RISAX WORKS!!!</h1>');
 ```
