@@ -13,5 +13,5 @@ to test (add index.html with nothing on the body)
 ```javascript
 const risax = require('risax');
 
-Return('RISAX WORKS!!!');
+Return('<h1>RISAX WORKS!!!</h1>');
 ```
