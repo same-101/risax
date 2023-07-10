@@ -26,6 +26,7 @@ Then type
 var Name = "Risax";
 
 Return(`<h1>Hello, ${Name}</h1>`);
+Return(/* HTML GOES HERE */);
 ```
 To style
 ```javascript
